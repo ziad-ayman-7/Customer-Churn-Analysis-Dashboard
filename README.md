@@ -1,4 +1,4 @@
-<img width="1369" height="801" alt="overview" src="https://github.com/user-attachments/assets/d18cddc2-e049-4342-9955-35d366f49ab5" /># Customer-Churn-Analysis-Dashboard
+ /># Customer-Churn-Analysis-Dashboard
 An interactive Power BI dashboard analyzing customer churn drivers
 
 # Customer Churn Analysis Dashboard
@@ -23,8 +23,8 @@ The interactive dashboard includes:
 ## Screenshots
 
 ### Overview Page
-![Overview Page](<img width="1369" height="801" alt="overview" src="https://github.com/user-attachments/assets/dcc25f46-8266-4cda-a6e7-1169f1d50511" />
-)
+<img width="1375" height="798" alt="overview" src="https://github.com/user-attachments/assets/6e3c11f8-e3c7-44a6-9f61-c2bb906c5190" />
+
 
 ## Technical Skills Demonstrated
 - **Data Modeling:** Created relationships between multiple tables in Power BI.
